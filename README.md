@@ -15,6 +15,7 @@ So creating a PowerBi Dashboard for This Insurance Application, aims to address 
 7.Then Data Validation was done, the final step was
 8.Data Modelling and Visualization
 # Major challenges and Customization made
+![Screenshot 2025-05-08 064041](https://github.com/user-attachments/assets/7b68fac0-6875-440f-bd42-c9bc8e248068)
 
 # Insights
 
