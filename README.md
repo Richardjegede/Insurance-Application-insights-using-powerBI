@@ -20,12 +20,13 @@ So creating a PowerBi Dashboard for This Insurance Application, aims to address 
 **how many application have the clients been through at any time of the day**To get the right measure for this metrics of the dashboard was chanlleging. But after making some reasearch from Enterprose DNA i was able to get it right.
 
 # Insights
-1. In this dashboard, we can see toatal insured coverage for each customer and the total revenue of insured coverage generated through-out the application process and year, 
+1. In this dashboard, we can see total insured coverage for each customer and the total revenue of the insured coverage generated through-out the application process and year, 
 2. Also in the dashboard, we can see the total annual premiums i.e the total annual income interest generated from each customers increased by 5% in total annual premium generated
-3. In our top 5 customers, HIKMA groups is our biggest customer who has insured alot of profit in throughout the application process.
-4. In our top 5 Industry,the INSURANCE industry remains the biggest and highest industry in the country has generated a lot of total revenue all through the years.
-5. With these evidence, there has been a shift in customers behaviour, in which most people are now  opting into our application process due to the transparency the dashboard provides in 
-   the online platform.
+3. In our top 5 customers, HIKMA groups is our biggest customer who has insured alot throughout the application process.
+4. In our top 5 Industry,the INSURANCE industry remains the biggest and highest industry in the country and it has generated a lot of total revenue all through the years.
+5. With all these evidence, there has been some shift in customers behaviour, in which most people are now  opting into our application process due to the availability and transparency the dashboard provides on the online platform.
+# Future Consideration
+I would like to create An insurance Application Insight APP. on Andriod version and IOS version so that it can made easy for applicants to fill our form from the comfort of their home or any where. It will provide more option and show the customer his or her on profile and anyways dont let me reveal too much. we can talk more about that when the need arise😉😉😉
 # Key Learnings
 1. Learned about what real business data sets look like.
 2. Learned about how to write some major analysis queries in Excel.
@@ -34,4 +35,4 @@ So creating a PowerBi Dashboard for This Insurance Application, aims to address 
 5. Learned about some major practical DAX functions and measures.
 6. Learned about how the map visuals work and how to locate an exact location to provide clear view of the location.
 7. Learned about some major analytical visuals and reports.
-8. I wrote all these by myself without the use of any AI tool. i think i deserve some Accolade😎😎🎂..
+8. I wrote all these by myself although it was daunting but i had to carry on. i think i deserve some Accolade😎😎🎂..
