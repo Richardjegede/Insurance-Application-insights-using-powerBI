@@ -26,7 +26,7 @@ So creating a PowerBi Dashboard for This Insurance Application, aims to address 
 4. In our top 5 Industry,the INSURANCE industry remains the biggest and highest industry in the country and it has generated a lot of total revenue all through the years.
 5. With all these evidence, there has been some shift in customers behaviour, in which most people are now  opting into our application process due to the availability and transparency the dashboard provides on the online platform.
 # Future Consideration
-I would like to create An insurance Application Insight APP. on Andriod version and IOS version so that it can made easy for applicants to fill our form from the comfort of their home or any where. It will provide more option and show the customer his or her on profile and anyways dont let me reveal too much. we can talk more about that when the need arise😉😉😉
+I would like to create An insurance Application Insight APP. on Andriod version and IOS version so that it would allow the applicants to fill our form from the comfort of their home or any where. It will provide more option and show the customer his or her own profile and anyways dont let me reveal too much. we can talk more about that when the need arise😉😉😉
 # Key Learnings
 1. Learned about what real business data sets look like.
 2. Learned about how to write some major analysis queries in Excel.
