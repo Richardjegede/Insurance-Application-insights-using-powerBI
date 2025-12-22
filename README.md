@@ -1,38 +1,43 @@
 # Insurance-insights-using-powerBI
 # Insurance Application insight Project using powerBI
-This Data file is from Enterprise DNA. After completting my bootcamp on Data Analysis, I decided to make more research by getting raw Data from Enterprise DNA and start my own journey.
+I chose to work on this project by obtaining a raw dataset from Enterprise DNA and creating a compelling, interactive dashboard using Power BI.
 # Problem Statement
-This insurance application data from Australia generates vast amounts of data related to Customer Details, Insurance application, Collateral Type, Industry, Bank Details, Product types, customer demographics, and financial performance. With this dashboard i am trying to showcase the business insurance application in Australia to the sales manager and executives on how the application from clients is going. i have to analyse important Key metrics to filter that must be done in an insurance company at any giving time frame and date. However, extracting meaningful insights from this data remains a challenge due to fragmented reporting, inconsistent metrics, knowning the right key measures to use expecially if i want to showcase how many open applications have there been with time through out the years and difficulty in visualizing key trends. At first i was scared, because this visualization is going to require some Key Measures and i need to start making research on how to derive this calculation and form an UserRelationship between all this Data. Without a centralized and intuitive system, the struggle to identify risk patterns, assess profitability, optimize pricing strategies, and improve customer retention will be difficult.
+This insurance application data from Australia includes information about customers, insurance applications, product types, industries, bank details, demographics, and financial performance. The goal of this dashboard is to help sales managers and executives understand how business insurance applications are performing over time.
+The dashboard focuses on tracking important key metrics that an insurance company needs to monitor within any selected time period. However, working with this data can be challenging because the reports are spread across different sources, some metrics are inconsistent, and it can be difficult to know which measures are the most important. For example, showing how many applications are still open over the years is not always straightforward, and visualizing trends clearly can be a bit difficult.
+At first, the task felt challenging because creating the dashboard requires defining the right key measures and building proper relationships between the data. Without a clear and centralized reporting system, it becomes harder to spot risk trends, measure profitability, improve pricing decisions, and retain customers..
 # Solution
-So creating a PowerBi Dashboard for This Insurance Application, aims to address these challenges by providing a dynamic, interactive visualization that consolidates critical insurance data into a single and clear view platform. By integrating real-time analytics, trend forecasting, and performance tracking of every single individual that applied to get insured. With this dashboard, it will empower more people to be applying for insurance and also allow stakeholders to make data-driven decisions, enhance operational efficiency, and improve financial outcomes. With a focus on clarity, accessibility, and actionable intelligence, this solution will transform raw data into strategic insight, helping insurers stay competitive in an evolving market and forsee the future benefits it will provide when they get insured.
-# The Steps I Took In This Project
-1. With my Liltle knowledge on AIMS grid for project planning,
-2. I used Excel to retrieve the data into Power BI,
-3. Then i did Data Cleaning in power query due to some errors and duplicates of data i found in the customers name,bank region and the date format,
-4. I went ahead to Data Modelling and create some relationship both active and inactive,
-5. Then i Performed ETL process (Extract Transform and Load),
-6. The first thing i had to do was to create some Key Measures for needs and used them for creating visuals in PowerBi,
-7. I had to make sure my internet connectivity was strong because i will be needing the map visuals to get the location and ariel view of the insured clients,
-8. Then Data Validation was done, the final step was
-9. Data Modelling and Visualization
+Creating this Power BI dashboard for the insurance application helps solve these challenges by bringing all important insurance data into one clear and easy view. This dashboard provides interactive visuals that make it easier to understand application trends, track performance over time, and see how each applicant is progressing.
+By using this simple trend analysis, the dashboard helps stakeholders make better, data-driven decisions, improve daily operations, and achieve better financial results. It also helps build confidence in the insurance process by making information more transparent and accessible.
+This dashboard turns complex data into clear insights, helping insurers stay competitive and better understand the long-term benefits for customers who choose to get insured.
+# Steps I Took In This Project
+1.Planned the project using my basic knowledge of the AIMS grid.
+2.Imported the data from Excel into Power BI.
+3.Cleaned the data in Power Query to fix errors and remove duplicates, especially in customer names, bank regions, and date formats.
+4.Built relationships between tables, including both active and inactive ones.
+5.Performed the ETL process (Extract, Transform, Load).
+6.Created key measures and used them to build visuals in Power BI.
+7.Ensured a strong internet connection for map visuals showing client locations.
+8.Validated the data to make sure everything was accurate.
+
 # Major challenges and Customization made
 ![Screenshot 2025-05-08 064041](https://github.com/user-attachments/assets/7b68fac0-6875-440f-bd42-c9bc8e248068)
-**how many application have the clients been through at any time of the day**To get the right measure for this metrics of the dashboard was chanlleging. But after making some reasearch from Enterprose DNA i was able to get it right.
+"Number of Applications per Client at Any Time"
+Measuring how many applications each client has submitted at any given time was challenging. However, after doing some research using Enterprise DNA resources, I was able to figure out the correct way to calculate this metric for the dashboard.
 
 # Insights
-1. In this dashboard, we can see total insured coverage for each customer and the total revenue of the insured coverage generated through-out the application process and year, 
-2. Also in the dashboard, we can see the total annual premiums i.e the total annual income interest generated from each customers increased by 5% in total annual premium generated
-3. In our top 5 customers, HIKMA groups is our biggest customer who has insured alot throughout the application process.
-4. In our top 5 Industry,the INSURANCE industry remains the biggest and highest industry in the country and it has generated a lot of total revenue all through the years.
-5. With all these evidence, there has been some shift in customers behaviour, in which most people are now  opting into our application process due to the availability and transparency the dashboard provides on the online platform.
+1.The dashboard provides a clear view of the total insured coverage for each customer, along with the total revenue generated from these coverages throughout the application process and over the course of the year.
+2.It also shows the total annual premiums, essentially the annual income generated from each customer which have increased by 5% in overall annual premium revenue.
+3.Among our top five customers, HIKMA Group stands out as the largest, having insured a significant amount throughout the application process.
+4.Looking at the top five industries, the INSURANCE sector remains the largest and highest-revenue industry in the country, consistently generating substantial revenue over the years.
+5.These insights also reveal a shift in customer behavior: more people are engaging with our application process, likely due to the transparency and ease of access the dashboard provides on our online platform.
 # Future Consideration
-I would like to create An insurance Application Insight APP. on Andriod version and IOS version so that it would allow the applicants to fill our form from the comfort of their home or any where. It will provide more option and show the customer his or her own profile and anyways dont let me reveal too much. we can talk more about that when the need arise😉😉😉
+I’m planning to develop an Insurance Application Insight App for both Android and iOS. This app will allow applicants to complete our forms conveniently from home or anywhere else. It will also offer additional features, such as letting customers view their own profiles. I won’t reveal too much just yet 😉—we can discuss the details when the time is right.
 # Key Learnings
-1. Learned about what real business data sets look like.
-2. Learned about how to write some major analysis queries in Excel.
-3. how to connect the database’s tables to Power Bi.
-4. how to connect the excel files to Power Bi and how to clean & modify the unwanted data in Power Query.
-5. Learned about some major practical DAX functions and measures.
-6. Learned about how the map visuals work and how to locate an exact location to provide clear view of the location.
-7. Learned about some major analytical visuals and reports.
-8. I wrote all these by myself although it was daunting but i had to carry on. i think i deserve some Accolade😎😎🎂..
+1.Gained hands-on experience working with real business datasets.
+2.Learned how to write and execute major analysis queries in Excel.
+3.Learned how to connect database tables to Power BI.
+4.Learned how to connect Excel files to Power BI and clean or modify unwanted data using Power Query.
+5.Gained practical knowledge of key DAX functions and measures.
+6.Learned how map visuals work and how to pinpoint exact locations for clear geographic insights.
+7.Explored major analytical visuals and how to create comprehensive reports.
+8.Completed all of this independently. Although it was challenging, I persevered and I think that deserves some recognition 😎🎂.
