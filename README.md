@@ -1,6 +1,8 @@
 # Insurance-insights-using-powerBI
+
 # Insurance Application insight Project using powerBI
 I chose to work on this project by obtaining a raw dataset from Enterprise DNA and creating a compelling, interactive dashboard using Power BI.
+
 # Problem Statement
 This insurance application data from Australia includes information about customers, insurance applications, product types, industries, bank details, demographics, and financial performance. The goal of this dashboard is to help sales managers and executives understand how business insurance applications are performing over time.
 
@@ -17,12 +19,30 @@ This dashboard turns complex data into clear insights, helping insurers stay com
 # Steps I Took In This Project
 1. Planned the project using my basic knowledge of the AIMS grid.
 2. Imported the data from Excel into Power BI.
-3. Cleaned the data in Power Query to fix errors and remove duplicates, especially in customer names, bank regions, and date formats.
-4. Built relationships between tables, including both active and inactive ones.
-5. Performed the ETL process (Extract, Transform, Load).
-6. Created key measures and used them to build visuals in Power BI.
-7. Ensured a strong internet connection for map visuals showing client locations.
-8. Validated the data to make sure everything was accurate.
+   
+   *Excel file*
+   <img width="1350" height="720" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/1bae73d8-6ac8-4eb8-9005-8fd60147c3c7" />
+   *Navigator bar- importing the file*
+   <img width="1353" height="723" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/e4d0985b-e783-4053-a0f6-268873feef4f" />
+
+4. Cleaned the data in Power Query to fix errors and remove duplicates, especially in customer names, bank regions, and date formats.
+
+   <img width="1353" height="729" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/3a5651fc-8522-4c72-acce-db52337f7df0" />
+
+6. Built relationships between tables, including both active and inactive ones.
+
+  <img width="1350" height="723" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/e5b6a91d-6d5b-43d9-a3fa-50ec712495f2" />
+
+8. Performed the ETL process (Extract, Transform, Load).
+9. Created key measures and used them to build visuals in Power BI.
+
+    ![Screenshot (94)](https://github.com/user-attachments/assets/0bb0491d-c182-462c-9e6d-852298f34530)
+
+11. Ensured a strong internet connection for map visuals showing client locations.
+
+    <img width="1353" height="729" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/b078bce7-1695-4594-8a5a-a5bade922876" />
+
+13. Validated the data to make sure everything was accurate.
 
 # Major challenges and Customization made
 ![Screenshot 2025-05-08 064041](https://github.com/user-attachments/assets/7b68fac0-6875-440f-bd42-c9bc8e248068)
@@ -35,8 +55,14 @@ Measuring how many applications each client has submitted at any given time was 
 3. Among our top five customers, HIKMA Group stands out as the largest, having insured a significant amount throughout the application process.
 4. Looking at the top five industries, the INSURANCE sector remains the largest and highest-revenue industry in the country, consistently generating substantial revenue over the years.
 5. These insights also reveal a shift in customer behavior: more people are engaging with our application process, likely due to the transparency and ease of access the dashboard provides on our online platform.
+
+ *The Dashboard*
+   <img width="1353" height="723" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/4678d09f-3e62-44d3-9371-7249cb1aefa0" />
+
+
 # Future Consideration
 I’m planning to develop an Insurance Application Insight App for both Android and iOS. This app will allow applicants to complete our forms conveniently from home or anywhere else. It will also offer additional features, such as letting customers view their own profiles. I won’t reveal too much just yet 😉—we can discuss the details when the time is right.
+
 # Key Learnings
 1. Gained hands-on experience working with real business datasets.
 2. Learned how to write and execute major analysis queries in Excel.
